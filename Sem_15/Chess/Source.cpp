@@ -1,6 +1,5 @@
 ﻿/*
 * Implementation of a chess game including check, checkmate, etc.
-* Author: Maria Grozdeva
 */
 
 #include "ChessBoard/ChessBoard.h"
